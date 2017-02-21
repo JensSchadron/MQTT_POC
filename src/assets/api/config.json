@@ -1,0 +1,17 @@
+{
+    "host": "schadronds.synology.me",
+    "port": 9001,
+    "ssl": false,
+
+    "user": "username",
+    "pass": "changeme",
+
+    "subscribe": [
+        "Testy"
+    ],
+    "publish": [
+        "Testy"
+    ],
+
+    "keepalive": 10
+}
