@@ -1,7 +1,7 @@
 {
     "host": "schadronds.synology.me",
-    "port": 9001,
-    "ssl": false,
+    "port": 9883,
+    "ssl": true,
 
     "user": "username",
     "pass": "changeme",
